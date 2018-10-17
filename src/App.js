@@ -13,7 +13,7 @@ class App extends Component {
           </p>
         </header>
         <footer>
-          pronuntio GmbH 2018
+          pronuntio GmbH 2018.
         </footer>
       </div>
     );
