@@ -9,17 +9,12 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            𐌐𐌓𐌏𐌍𐌖𐌍𐌕𐌉𐌏
           </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
         </header>
+        <footer>
+          pronuntio GmbH 2018
+        </footer>
       </div>
     );
   }
