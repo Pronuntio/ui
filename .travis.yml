@@ -7,9 +7,3 @@ cache:
 script:
   - npm run build
   - npm test
- 
-deploy:
-  provider: script
-  script: npm run deploy
-  on:
-    branch: master
