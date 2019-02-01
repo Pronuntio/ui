@@ -7,13 +7,12 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <p>
-            𐌐𐌓𐌏𐌍𐌖𐌍𐌕𐌉𐌏
+            Pronuntio
           </p>
         </header>
         <footer>
-          pronuntio GmbH 2018.
+          𐌐𐌓𐌏𐌍𐌖𐌍𐌕𐌉𐌏 GmbH 2018.
         </footer>
       </div>
     );

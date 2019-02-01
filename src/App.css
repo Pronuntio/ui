@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:900');
+
 .App {
   text-align: center;
 }
@@ -5,18 +7,19 @@
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
+  
 }
 
 .App-header {
-  background-color: #000000;
-  min-height: calc(100vh - 20px);
-  display: flex;
+  /* min-height: calc(100vh - 20px); */
+  /* display: flex; */
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: #f1cd43;
-  font-weight: bolder;
+  /* align-items: center; */
+  /* justify-content: center; */
+  font-size: 32pt;
+  color: #333;
+  font-weight: 900;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 .App-link {
@@ -34,6 +37,5 @@
 
 footer {
   color: #f1cd43;
-  background-color: #000000;
   height: 20px;
 }
