@@ -2,7 +2,7 @@
   "name": "pronuntio-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pronuntio.github.io/ui",
+  "homepage": "https://pronuntio.netlify.com/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
